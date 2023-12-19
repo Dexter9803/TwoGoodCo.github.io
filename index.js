@@ -49,7 +49,7 @@ function navbarAnimation()
             scroller:"#main",
             start:"top 0",
             end:"top -5%",
-            scrub:1
+            scrub:true
         }
     })
     
@@ -60,7 +60,7 @@ function navbarAnimation()
             scroller:"#main",
             start:"top 0",
             end:"top -5%",
-            scrub:1
+            scrub:true
         }
     })
     
